@@ -4,7 +4,7 @@ ___
 ___
 > Actualmente me encuentro realizando un fantastico curso en [**UNDEFINED ACADEMY**](https://undefined.academy) y espero convertirme en un **Full-stack JavaScript Developer**.
 ___
-## EN LA PRIMERA SEMANA APRENDIMOS ALGUNOS COMANDOS DE LA TERMINAL:
+## EN LA PRIMER CLASE APRENDIMOS ALGUNOS COMANDOS DE LA TERMINAL:
 |COMANDO  | DESCRIPCION                                                               |
 |---------|---------------------------------------------------------------------------|
 | DATE    | MUESTRA LA FECHA Y HORA DEL SISTEMA                                       |
